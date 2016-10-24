@@ -1,0 +1,2 @@
+wifiConnectGetPW	KEYWORD2
+wifiAutoConnect	KEYWORD2
